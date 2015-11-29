@@ -1,0 +1,1 @@
+E:\visual studio workspace\DMaas\DMaasAPI.Tests\obj\Debug\DMaasAPI.Tests.csprojResolveAssemblyReference.cache
